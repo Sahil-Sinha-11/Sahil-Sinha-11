@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Sinha</h1>
-<h3 align="center">Building cool things, one commit at a time.</h3>
+<h3 align="center">Hi, I’m Sahil. Part human, part coffee, mostly awesome.
+  Building cool things, one commit at a time.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sahil-sinha-11&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sinha-11" /> 
