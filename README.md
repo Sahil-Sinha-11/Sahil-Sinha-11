@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sahil-sinha-11&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-sinha-11" /> 
 </p>
 
-- 🔭 I’m currently working with [Learning Equality](https://github.com/learningequality)
+
 - 🌱 I’m currently learning **Python**
 - 👯 I’m looking to collaborate on **cloud native projects**
 - 🤝 I’m looking for help with **Chromium**
